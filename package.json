@@ -1,0 +1,28 @@
+{
+  "name": "sit25-2023-t1-prac4",
+  "version": "1.0.0",
+  "description": "Prac4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MercyJT/SIT25-2023-t1-Prac4.git"
+  },
+  "keywords": [
+    "Prac",
+    "4",
+    "Databases"
+  ],
+  "author": "Mercyline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MercyJT/SIT25-2023-t1-Prac4/issues"
+  },
+  "homepage": "https://github.com/MercyJT/SIT25-2023-t1-Prac4#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
